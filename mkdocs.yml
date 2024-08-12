@@ -6,6 +6,8 @@ theme:
     scheme: slate
     primary: teal
     accent: amber
+  font:
+    text: Zen Kaku Gothic Antique
 
 plugins:
   - search
