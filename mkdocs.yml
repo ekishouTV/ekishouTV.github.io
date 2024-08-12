@@ -8,6 +8,8 @@ theme:
     accent: amber
   font:
     text: Zen Kaku Gothic Antique
+  features:
+    - navigation.top
 
 plugins:
   - search
