@@ -1,0 +1,12 @@
+site_name: ekishouTV's site
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: amber
+
+plugins:
+  - search
+  - roamlinks

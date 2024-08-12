@@ -1,0 +1,15 @@
+[project]
+name = "site"
+version = "0.1.0"
+description = "Add your description here"
+dependencies = [
+    "mkdocs-material>=9.5.31",
+    "mkdocs-roamlinks-plugin>=0.3.2",
+]
+readme = "README.md"
+requires-python = ">= 3.12"
+
+[tool.rye]
+managed = true
+virtual = true
+dev-dependencies = []
