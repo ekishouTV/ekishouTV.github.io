@@ -10,6 +10,7 @@ services:
     volumes:
       - .:/site
       - venv:/site/.venv
+    restart: always
 
 volumes:
   venv:
