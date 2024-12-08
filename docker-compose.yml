@@ -10,6 +10,7 @@ services:
     volumes:
       - .:/site
       - venv:/site/.venv
+      - ~/.ssh:/home/site/.ssh
     restart: always
 
 volumes:

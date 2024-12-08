@@ -1,6 +1,6 @@
 FROM python:slim-bookworm
 
-RUN apt-get -y update; apt-get -y install curl
+RUN apt-get -y update; apt-get -y install curl git
 
 ARG USERNAME=site
 ARG USER_UID=1000

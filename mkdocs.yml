@@ -11,12 +11,21 @@ theme:
   features:
     - navigation.top
     - navigation.footer
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
 
 plugins:
   - search
+  - blog
   - roamlinks
+  - rendering_obsidian_auto_card_link
 
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.superfences
+  - attr_list
+
+extra_css:
+  - stylesheets/rendering_obsidian_auto_card_link.css
