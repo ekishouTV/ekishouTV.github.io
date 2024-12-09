@@ -79,7 +79,7 @@
     text-decoration: none;
     color: var(-webkit-link);
     background: rgba(var(--bs-tertiary-bg-rgb), 1) !important;
-    border: solid 2px var(--bs-border-color-translucent);
+    border: solid 1px var(--md-typeset-a-color);
 
     &:hover {
         background: rgba(var(--bs-tertiary-bg-rgb), 0.5) !important;
