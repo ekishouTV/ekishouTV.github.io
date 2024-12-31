@@ -3,7 +3,7 @@ name = "site"
 version = "0.1.0"
 description = "Add your description here"
 dependencies = [
-    "mkdocs-material[imaging]>=9.5.48",
+    "mkdocs-material[imaging]>=9.5.49",
     "mkdocs-roamlinks-plugin>=0.3.2",
     "mkdocs-rendering-obsidian-auto-card-link @ git+https://github.com/ekishouTV/mkdocs-rendering-obsidian-auto-card-link@v0.1.0",
 ]
