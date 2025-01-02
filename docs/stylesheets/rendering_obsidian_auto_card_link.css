@@ -113,12 +113,12 @@
     --lh: 1.4em;
     line-height: var(--lh);
     height: calc(var(--lh) * 3);
-    color: var(--bs-secondary-text-emphasis);
-    font-size: 0.85rem;
+    color: var(--md-typeset-color);
+    font-size: 0.7rem;
 }
 
 .auto-card-link-host {
-    font-size: 0.85rem;
+    font-size: 0.7rem;
     display: flex;
     flex-direction: row;
     align-items: center;
