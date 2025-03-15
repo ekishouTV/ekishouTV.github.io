@@ -9,7 +9,7 @@
 #   generate-hashes: false
 #   universal: false
 
-babel==2.16.0
+babel==2.17.0
     # via mkdocs-material
 backrefs==5.8
     # via mkdocs-material
@@ -17,7 +17,7 @@ cairocffi==1.7.1
     # via cairosvg
 cairosvg==2.7.1
     # via mkdocs-material
-certifi==2024.12.14
+certifi==2025.1.31
     # via requests
 cffi==1.17.1
     # via cairocffi
@@ -27,7 +27,7 @@ click==8.1.8
     # via mkdocs
 colorama==0.4.6
     # via mkdocs-material
-cssselect2==0.7.0
+cssselect2==0.8.0
     # via cairosvg
 defusedxml==0.7.1
     # via cairosvg
@@ -35,7 +35,7 @@ ghp-import==2.1.0
     # via mkdocs
 idna==3.10
     # via requests
-jinja2==3.1.5
+jinja2==3.1.6
     # via mkdocs
     # via mkdocs-material
 markdown==3.7
@@ -72,9 +72,9 @@ platformdirs==4.3.6
     # via mkdocs-get-deps
 pycparser==2.22
     # via cffi
-pygments==2.18.0
+pygments==2.19.1
     # via mkdocs-material
-pymdown-extensions==10.13
+pymdown-extensions==10.14.3
     # via mkdocs-material
 python-dateutil==2.9.0.post0
     # via ghp-import
