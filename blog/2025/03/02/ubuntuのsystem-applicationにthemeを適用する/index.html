@@ -14,9 +14,14 @@
         <link rel="prev" href="../../../../2024/12/10/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE-2024/">
       
       
+        <link rel="next" href="../../../11/24/migrated-from-rye-to-uv/">
+      
+      
+        
+      
       
       <link rel="icon" href="../../../../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
     
     
       
@@ -24,10 +29,10 @@
       
     
     
-      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.6f8fc17f.min.css">
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.618322db.min.css">
       
         
-        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.06af60db.min.css">
+        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.ab4e12ef.min.css">
       
       
 
@@ -54,34 +59,18 @@
 
     
     
-      
-        <meta  property="og:type"  content="website" >
-      
-        <meta  property="og:title"  content="UbuntuのSystem applicationにThemeを適用する - ekishouTV's site" >
-      
-        <meta  property="og:description"  content="None" >
-      
-        <meta  property="og:image"  content="https://ekishoutv.github.io/assets/images/social/blog/posts/how-to-apply-theme-to-system-application-on-ubuntu.png" >
-      
-        <meta  property="og:image:type"  content="image/png" >
-      
-        <meta  property="og:image:width"  content="1200" >
-      
-        <meta  property="og:image:height"  content="630" >
-      
-        <meta  property="og:url"  content="https://ekishoutv.github.io/blog/2025/03/02/ubuntu%E3%81%AEsystem-application%E3%81%ABtheme%E3%82%92%E9%81%A9%E7%94%A8%E3%81%99%E3%82%8B/" >
-      
-        <meta  name="twitter:card"  content="summary_large_image" >
-      
-        <meta  name="twitter:title"  content="UbuntuのSystem applicationにThemeを適用する - ekishouTV's site" >
-      
-        <meta  name="twitter:description"  content="None" >
-      
-        <meta  name="twitter:image"  content="https://ekishoutv.github.io/assets/images/social/blog/posts/how-to-apply-theme-to-system-application-on-ubuntu.png" >
-      
-    
-    
-  </head>
+  
+<meta property="og:type" content="website" />
+<meta property="og:title" content="UbuntuのSystem applicationにThemeを適用する - ekishouTV's site" />
+<meta property="og:image" content="https://ekishoutv.github.io/assets/images/social/blog/2025/03/02/ubuntu%E3%81%AEsystem-application%E3%81%ABtheme%E3%82%92%E9%81%A9%E7%94%A8%E3%81%99%E3%82%8B.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:url" content="https://ekishoutv.github.io/blog/2025/03/02/ubuntu%E3%81%AEsystem-application%E3%81%ABtheme%E3%82%92%E9%81%A9%E7%94%A8%E3%81%99%E3%82%8B/" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content="UbuntuのSystem applicationにThemeを適用する - ekishouTV's site" />
+<meta property="twitter:image" content="https://ekishoutv.github.io/assets/images/social/blog/2025/03/02/ubuntu%E3%81%AEsystem-application%E3%81%ABtheme%E3%82%92%E9%81%A9%E7%94%A8%E3%81%99%E3%82%8B.png" />
+</head>
   
   
     
@@ -144,11 +133,13 @@
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
@@ -180,6 +171,7 @@
     </div>
   </div>
 </div>
+      
     
     
   </nav>
@@ -200,9 +192,11 @@
   
   
   
+  
     <li class="md-tabs__item">
       <a href="../../../../.." class="md-tabs__link">
         
+  
   
     
   
@@ -216,6 +210,7 @@
         
   
   
+  
     
   
   
@@ -224,6 +219,7 @@
       <li class="md-tabs__item md-tabs__item--active">
         <a href="../../../../" class="md-tabs__link">
           
+  
   
     
   
@@ -280,9 +276,16 @@
       <a href="../../../../.." class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
+    
+  
     Welcome to ekishouTV's site
+  
+
+    
   </span>
+  
   
 
       </a>
@@ -309,6 +312,7 @@
       
     
     
+    
       
         
         
@@ -325,14 +329,20 @@
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
         
           
-          
           <div class="md-nav__link md-nav__container">
             <a href="../../../../" class="md-nav__link ">
               
   
+  
   <span class="md-ellipsis">
+    
+  
     Blog
+  
+
+    
   </span>
+  
   
 
             </a>
@@ -347,7 +357,11 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
-            Blog
+            
+  
+    Blog
+  
+
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -366,6 +380,7 @@
       
         
       
+    
     
     
       
@@ -387,9 +402,16 @@
           <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
             
   
+  
   <span class="md-ellipsis">
+    
+  
     Archive
+  
+
+    
   </span>
+  
   
 
             <span class="md-nav__icon md-icon"></span>
@@ -398,7 +420,11 @@
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_2">
             <span class="md-nav__icon md-icon"></span>
-            Archive
+            
+  
+    Archive
+  
+
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -414,9 +440,16 @@
       <a href="../../../../archive/2025/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
+    
+  
     2025
+  
+
+    
   </span>
+  
   
 
       </a>
@@ -437,9 +470,16 @@
       <a href="../../../../archive/2024/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
+    
+  
     2024
+  
+
+    
   </span>
+  
   
 
       </a>
@@ -494,7 +534,9 @@
         <li class="md-nav__item">
   <a href="#_1" class="md-nav__link">
     <span class="md-ellipsis">
-      方法
+      
+        方法
+      
     </span>
   </a>
   
@@ -503,7 +545,9 @@
         <li class="md-nav__item">
   <a href="#_2" class="md-nav__link">
     <span class="md-ellipsis">
-      経緯
+      
+        経緯
+      
     </span>
   </a>
   
@@ -568,6 +612,7 @@
                 </nav>
               </li>
             </ul>
+            
           </nav>
           
         </div>
@@ -576,6 +621,9 @@
     <article class="md-content__inner md-typeset">
       
         
+  
+
+
 
 
 <h1 id="ubuntusystem-applicationtheme">UbuntuのSystem applicationにThemeを適用する</h1>
@@ -658,6 +706,22 @@
           </a>
         
         
+          
+          <a href="../../../11/24/migrated-from-rye-to-uv/" class="md-footer__link md-footer__link--next" aria-label="Next: Ryeからuvに移行した">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Ryeからuvに移行した
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
       </nav>
     
   
@@ -683,10 +747,13 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "../../../../..", "features": ["navigation.top", "navigation.footer", "navigation.tabs", "navigation.sections", "navigation.indexes"], "search": "../../../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../../../..", "features": ["navigation.top", "navigation.footer", "navigation.tabs", "navigation.sections", "navigation.indexes"], "search": "../../../../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../../../../../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      <script src="../../../../../assets/javascripts/bundle.e71a0d61.min.js"></script>
       
     
   </body>
