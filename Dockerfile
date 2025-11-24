@@ -1,4 +1,4 @@
-FROM python:slim-bookworm
+FROM debian:trixie-slim
 
 RUN apt-get -y update; apt-get -y install curl git libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
 
