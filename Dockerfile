@@ -1,4 +1,4 @@
-FROM debian:trixie-slim
+FROM ghcr.io/astral-sh/uv:debian-slim
 
 RUN apt-get -y update; apt-get -y install curl git libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
 
@@ -11,12 +11,9 @@ RUN groupadd --gid ${USER_GID} ${USERNAME} \
 
 USER ${USERNAME}
 
-RUN curl -sSf https://rye.astral.sh/get | RYE_INSTALL_OPTION="--yes" bash
-ENV PATH=${PATH}:/home/${USERNAME}/.rye/shims
-
 WORKDIR /site
 
-COPY --chown=${USERNAME}:${USERNAME} pyproject.toml requirements.lock requirements-dev.lock .python-version ./
-RUN rye sync
+COPY --chown=${USERNAME}:${USERNAME} pyproject.toml uv.lock .python-version ./
+RUN uv sync
 
-CMD ["rye", "run", "mkdocs", "serve", "--dev-addr=0.0.0.0:5310"]
+CMD ["uv", "run", "mkdocs", "serve", "--dev-addr=0.0.0.0:5310"]

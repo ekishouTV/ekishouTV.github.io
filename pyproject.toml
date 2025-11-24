@@ -8,9 +8,7 @@ dependencies = [
     "mkdocs-rendering-obsidian-auto-card-link @ git+https://github.com/ekishouTV/mkdocs-rendering-obsidian-auto-card-link@v0.1.0",
 ]
 readme = "README.md"
-requires-python = ">= 3.12"
+requires-python = ">= 3.14"
 
-[tool.rye]
-managed = true
-virtual = true
-dev-dependencies = []
+[tool.uv]
+package = false
