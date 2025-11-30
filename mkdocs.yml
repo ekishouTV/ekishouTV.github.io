@@ -5,8 +5,8 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: teal
-    accent: amber
+    primary: red
+    accent: deep orange
   font:
     text: Zen Kaku Gothic Antique
   features:
