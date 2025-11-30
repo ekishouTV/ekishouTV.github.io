@@ -28,6 +28,8 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.superfences
   - attr_list
+  - admonition
+  - pymdownx.details
 
 extra_css:
   - stylesheets/rendering_obsidian_auto_card_link.css
