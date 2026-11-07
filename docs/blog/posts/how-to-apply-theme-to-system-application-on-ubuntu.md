@@ -9,14 +9,17 @@ date:
 
 以下を使用する
 
-```cardlink
-url: https://github.com/odziom91/libadwaita-theme-changer
-title: "GitHub - odziom91/libadwaita-theme-changer: Theme changer for Libadwaita"
-description: "Theme changer for Libadwaita. Contribute to odziom91/libadwaita-theme-changer development by creating an account on GitHub."
-host: github.com
-favicon: https://github.githubassets.com/favicons/favicon.svg
-image: https://opengraph.githubassets.com/156e5244ee79cb83ae407b03e28539efb3c31c2e6435da24beb88308a1a39119/odziom91/libadwaita-theme-changer
-```
+<div class="grid cards" markdown>
+- [GitHub - odziom91/libadwaita-theme-changer: Theme changer for Libadwaita](https://github.com/odziom91/libadwaita-theme-changer)
+
+    ---
+
+    ![](https://opengraph.githubassets.com/156e5244ee79cb83ae407b03e28539efb3c31c2e6435da24beb88308a1a39119/odziom91/libadwaita-theme-changer){: style="height:350px"}
+
+    Theme changer for Libadwaita. Contribute to odziom91/libadwaita-theme-changer development by creating an account on GitHub.
+
+    ![](https://github.githubassets.com/favicons/favicon.svg){: style="height:30px; width:30px"}
+</div>
 
 `~/.local/share/themes/`に対応していないため、Symbolic linkを作成する。
 

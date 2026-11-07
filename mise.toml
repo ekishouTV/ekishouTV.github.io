@@ -1,0 +1,17 @@
+[tools]
+uv = "0.9.21"
+
+[env]
+UV_FROZEN = 1
+
+[tasks.serve]
+run = "uv run zensical serve --dev-addr 0.0.0.0:5310"
+
+[tasks.build]
+run = "uv run zensical build --clean"
+
+[tasks.convert-obsidian-card-link-to-zensical-card-link]
+usage = '''
+    arg <file>
+'''
+run = "sed -i -f convert-card-link-from-obsidian-to-zensical.sed ${usage_file?}"

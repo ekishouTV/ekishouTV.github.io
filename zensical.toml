@@ -1,0 +1,37 @@
+[project]
+site_name = "ekishouTV's site"
+site_url = "https://ekishoutv.github.io/"
+theme = {
+    palette = {
+        scheme = "slate",
+        primary = "green",
+        accent = "light green",
+    },
+    font = {
+        text = "Zen Kaku Gothic Antique",
+    },
+    features = [
+        "navigation.top",
+        "navigation.footer",
+        "navigation.tabs",
+        "navigation.sections",
+        "navigation.indexes",
+    ]
+}
+plugins = [
+  "search",
+  "blog",
+  "social",
+]
+markdown_extensions = {
+    pymdownx = {
+        highlight = {
+            anchor_linenums = true,
+        },
+        superfences = {},
+        details = {},
+    },
+    attr_list = {},
+    admonition = {},
+    md_in_html = {},
+}

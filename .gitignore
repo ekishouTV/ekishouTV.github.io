@@ -9,6 +9,6 @@ wheels/
 # venv
 .venv
 
-# MkDocs
+# Zensical
 site/
 .cache/

@@ -19,14 +19,17 @@ date:
 
 ## THERMOS - 真空断熱マグカップ／JDG-352LTD
 
-```cardlink
-url: https://www.thermos.jp/product/detail/jdg-352ltd.html
-title: "真空断熱マグカップ／JDG-352LTD | マグカップ | サーモス 魔法びんのパイオニア"
-description: "サーモスの製品 真空断熱マグカップ／JDG-352LTD をご紹介しています。"
-host: www.thermos.jp
-favicon: https://www.thermos.jp/favicon.png
-image: https://www.thermos.jp/product/product_file/file/s_jdg-02ltd.jpg
-```
+<div class="grid cards" markdown>
+- [真空断熱マグカップ／JDG-352LTD | マグカップ | サーモス 魔法びんのパイオニア](https://www.thermos.jp/product/detail/jdg-352ltd.html)
+
+    ---
+
+    ![](https://www.thermos.jp/product/product_file/file/s_jdg-02ltd.jpg){: style="height:350px"}
+
+    サーモスの製品 真空断熱マグカップ／JDG-352LTD をご紹介しています。
+
+    ![](https://www.thermos.jp/favicon.png){: style="height:30px; width:30px"}
+</div>
 
 魔法びんでできたマグカップです。蓋付きなのも嬉しいポイントです。  
 ↓を買いました
@@ -36,36 +39,45 @@ image: https://www.thermos.jp/product/product_file/file/s_jdg-02ltd.jpg
 記事に書くために公式サイトを見たら生産終了していました......  
 Amazonには在庫がありますね。アフィリエイトリンクではないです。
 
-```cardlink
-url: https://amzn.asia/d/6HSiJzV
-title: "Amazon.co.jp: サーモス 真空断熱マグカップ 350ml ピンクパターン JDG-352LTD P-PTN : ホーム＆キッチン"
-description: "Amazon.co.jp: サーモス 真空断熱マグカップ 350ml ピンクパターン JDG-352LTD P-PTN : ホーム＆キッチン"
-host: amzn.asia
-favicon: ""
-image: ""
-```
+<div class="grid cards" markdown>
+- [Amazon.co.jp: サーモス 真空断熱マグカップ 350ml ピンクパターン JDG-352LTD P-PTN : ホーム＆キッチン](https://amzn.asia/d/6HSiJzV)
+
+    ---
+
+    ![](""){: style="height:350px"}
+
+    Amazon.co.jp: サーモス 真空断熱マグカップ 350ml ピンクパターン JDG-352LTD P-PTN : ホーム＆キッチン
+
+    ![](""){: style="height:30px; width:30px"}
+</div>
 
 湯呑みも愛用しています
 
-```cardlink
-url: https://www.thermos.jp/product/series/jdt-00.html
-title: "真空断熱カップ/JDT-240･300 | 湯呑み・カップ | サーモス 魔法びんのパイオニア"
-description: "サーモスの製品 真空断熱カップ/JDT-240･300 をご紹介しています。"
-host: www.thermos.jp
-favicon: https://www.thermos.jp/favicon.png
-image: https://www.thermos.jp/product/product_file/file/s_jdt-00.jpg
-```
+<div class="grid cards" markdown>
+- [真空断熱カップ/JDT-240･300 | 湯呑み・カップ | サーモス 魔法びんのパイオニア](https://www.thermos.jp/product/series/jdt-00.html)
+
+    ---
+
+    ![](https://www.thermos.jp/product/product_file/file/s_jdt-00.jpg){: style="height:350px"}
+
+    サーモスの製品 真空断熱カップ/JDT-240･300 をご紹介しています。
+
+    ![](https://www.thermos.jp/favicon.png){: style="height:30px; width:30px"}
+</div>
 
 ## Fargo - STEEL TAP
 
-```cardlink
-url: https://fargo-japan.com/power-strip/steeltap/pt400/
-title: "AC4個口 全4色 | STEEL TAP SERIES | 電源タップ事業 | 光ファイバーケーブルとインテリア電源タップの製造・販売 -ファーゴ"
-description: "延長コード,電源タップ,鉄,スチール,1m,2m,3m,4m,USB,充電,急速充電,おしゃれ,隠す,魅せる,見せる,デザイン,コンセント,プラグ,タップ,コード,ケーブル,AC,イエロー,シルバー,レッド,ブルー,カラー,スイッチ,一括,雷サージ,雷ガード,雷,壁掛け,壁かけ,電器,電気,回転,差込口,4個口,おすすめ,fargo,ファーゴ,メーカー,製造,生産,インテリア,リビング,寝室,書斎,オフィス,家,ゲーム,パソコン,ノートパソコン"
-host: fargo-japan.com
-favicon: ""
-image: https://fargo-japan.com/wp-content/themes/kotetsu-doe/share/images/ogp.jpg
-```
+<div class="grid cards" markdown>
+- [AC4個口 全4色 | STEEL TAP SERIES | 電源タップ事業 | 光ファイバーケーブルとインテリア電源タップの製造・販売 -ファーゴ](https://fargo-japan.com/power-strip/steeltap/pt400/)
+
+    ---
+
+    ![](https://fargo-japan.com/wp-content/themes/kotetsu-doe/share/images/ogp.jpg){: style="height:350px"}
+
+    延長コード,電源タップ,鉄,スチール,1m,2m,3m,4m,USB,充電,急速充電,おしゃれ,隠す,魅せる,見せる,デザイン,コンセント,プラグ,タップ,コード,ケーブル,AC,イエロー,シルバー,レッド,ブルー,カラー,スイッチ,一括,雷サージ,雷ガード,雷,壁掛け,壁かけ,電器,電気,回転,差込口,4個口,おすすめ,fargo,ファーゴ,メーカー,製造,生産,インテリア,リビング,寝室,書斎,オフィス,家,ゲーム,パソコン,ノートパソコン
+
+    ![](""){: style="height:30px; width:30px"}
+</div>
 
 <font size=2px;>OGPのDescriptionをタグに使うんだ......</font>
 
@@ -79,52 +91,64 @@ image: https://fargo-japan.com/wp-content/themes/kotetsu-doe/share/images/ogp.jp
 
 ## Quntis - LED ScreenLinear Basic Plus,Monitor Light Bar for Desk/Home/Office (20.5Inch)
 
-```cardlink
-url: https://www.quntis.com/products/quntis-screenlinear-pro-max-computer-monitor-light-fit-for-22-29-monitor
-title: "LED ScreenLinear Basic Plus,Monitor Light Bar for Desk/Home/Office (20.5Inch)"
-description: "Good quality like ben computer light bar. Quntis monitor light bar has many advantages: stepless and auto dimming, no glare and flicker, anti-blue light design, adjustable color temperature, CRI≥98, unique design of weighted prevents the screen from scratching. Screen light bar can effectively enhance work productivity."
-host: www.quntis.com
-favicon: ""
-image: http://www.quntis.com/cdn/shop/files/083026_30b57587-6fc6-4bbe-8b74-7be0da65cc1b.jpg?v=1712567502&width=2048
-```
+<div class="grid cards" markdown>
+- [LED ScreenLinear Basic Plus,Monitor Light Bar for Desk/Home/Office (20.5Inch)](https://www.quntis.com/products/quntis-screenlinear-pro-max-computer-monitor-light-fit-for-22-29-monitor)
+
+    ---
+
+    ![](http://www.quntis.com/cdn/shop/files/083026_30b57587-6fc6-4bbe-8b74-7be0da65cc1b.jpg?v=1712567502&width=2048){: style="height:350px"}
+
+    Good quality like ben computer light bar. Quntis monitor light bar has many advantages: stepless and auto dimming, no glare and flicker, anti-blue light design, adjustable color temperature, CRI≥98, unique design of weighted prevents the screen from scratching. Screen light bar can effectively enhance work productivity.
+
+    ![](""){: style="height:30px; width:30px"}
+</div>
 
 Desk Tourでよく見かけるBenQの製品よりはるかに安くて、試しに買ってみました。
 
-```cardlink
-url: https://www.benq.com/ja-jp/lighting/monitor-light/screenbar.html
-title: "ScreenBarモニターライト"
-description: "LEDモニターライトで、自動調光機能、非対称光学デザインにより手元の作業空間を照らし、集中力を高め、快適な環境にします。"
-host: www.benq.com
-favicon: ""
-image: https://image.benq.com/is/image/benqco/07screenbar-topleft45-button-3?$ResponsivePreset$
-```
+<div class="grid cards" markdown>
+- [ScreenBarモニターライト](https://www.benq.com/ja-jp/lighting/monitor-light/screenbar.html)
+
+    ---
+
+    ![](https://image.benq.com/is/image/benqco/07screenbar-topleft45-button-3?$ResponsivePreset$){: style="height:350px"}
+
+    LEDモニターライトで、自動調光機能、非対称光学デザインにより手元の作業空間を照らし、集中力を高め、快適な環境にします。
+
+    ![](""){: style="height:30px; width:30px"}
+</div>
 
 部屋全体を明るくしなくてよいため夜におすすめですが、昼間の逆光にも効果があるような気がします。  
 部屋を明るくしていても手元の明るさが足りないという場合にも便利です
 
 ## mont-bell - コットン スウェットシャツ #6
 
-```cardlink
-url: https://webshop.montbell.jp/sp/goods/disp.php?product_id=2104853
-title: "【モンベル】コットン スウェットシャツ #6"
-description: "コットンにポリエステルを混紡した素材を使用したスウェットです。裏地は暖かく柔らかな肌触りの起毛地で、しっくりとなじむ心地よい風合いです。"
-host: webshop.montbell.jp
-favicon: ""
-image: https://webshop.montbell.jp/common/images/product/prod_c/c_2104853_nv.jpg
-```
+<div class="grid cards" markdown>
+- [【モンベル】コットン スウェットシャツ #6](https://webshop.montbell.jp/sp/goods/disp.php?product_id=2104853)
+
+    ---
+
+    ![](https://webshop.montbell.jp/common/images/product/prod_c/c_2104853_nv.jpg){: style="height:350px"}
+
+    コットンにポリエステルを混紡した素材を使用したスウェットです。裏地は暖かく柔らかな肌触りの起毛地で、しっくりとなじむ心地よい風合いです。
+
+    ![](""){: style="height:30px; width:30px"}
+</div>
 
 ↓のパーカーを複数持っていて愛用しているのですが、フードが付いていないものが欲しくなり買ってみました。  
 表地裏地ともに肌触りが良くてプリントも冬っぽくてお気に入りです  
 買い足す予定です
 
-```cardlink
-url: https://webshop.montbell.jp/goods/disp.php?product_id=1106589
-title: "【モンベル】クリマプラス ニットパーカ Men's"
-description: "セーター調の上質な風合いを持つフリース素材を使用したジャケットです。軽量ながらも暖かく、裏面は柔らかな起毛地です。シンプルなデザインのフーデッドパーカです。さまざまな用途・場面で活躍します。"
-host: webshop.montbell.jp
-favicon: ""
-image: https://webshop.montbell.jp/common/images/product/prod_c/c_1106589_dbn.jpg
-```
+<div class="grid cards" markdown>
+- [【モンベル】クリマプラス ニットパーカ Men's](https://webshop.montbell.jp/goods/disp.php?product_id=1106589)
+
+    ---
+
+    ![](https://webshop.montbell.jp/common/images/product/prod_c/c_1106589_dbn.jpg){: style="height:350px"}
+
+    セーター調の上質な風合いを持つフリース素材を使用したジャケットです。軽量ながらも暖かく、裏面は柔らかな起毛地です。シンプルなデザインのフーデッドパーカです。さまざまな用途・場面で活躍します。
+
+    ![](""){: style="height:30px; width:30px"}
+</div>
 
 ## あとがき
 

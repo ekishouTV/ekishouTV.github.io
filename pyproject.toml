@@ -3,12 +3,14 @@ name = "site"
 version = "0.1.0"
 description = "Add your description here"
 dependencies = [
-    "mkdocs-material[imaging]>=9.7.0",
-    "mkdocs-roamlinks-plugin>=0.3.2",
-    "mkdocs-rendering-obsidian-auto-card-link @ git+https://github.com/ekishouTV/mkdocs-rendering-obsidian-auto-card-link@v0.1.0",
+    "zensical>=0.0.64",
 ]
 readme = "README.md"
 requires-python = ">= 3.14"
 
 [tool.uv]
 package = false
+exclude-newer = "1 week"
+
+[dependency-groups]
+dev = []
