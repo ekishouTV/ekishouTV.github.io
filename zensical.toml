@@ -37,12 +37,14 @@ theme = {
         "navigation.indexes",
     ],
 }
-plugins = [
-  "search",
-  "blog",
-  "social",
-  "glightbox",
-]
+plugins = {
+  search = {},
+  blog = {
+    post_readtime = false
+  },
+  social = {},
+  glightbox = {},
+}
 markdown_extensions = {
     pymdownx = {
         highlight = {
