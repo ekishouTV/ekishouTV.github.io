@@ -22,6 +22,7 @@ plugins = [
   "search",
   "blog",
   "social",
+  "glightbox",
 ]
 markdown_extensions = {
     pymdownx = {
