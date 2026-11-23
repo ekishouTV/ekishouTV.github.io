@@ -9,6 +9,7 @@ theme = {
     },
     font = {
         text = "Zen Kaku Gothic Antique",
+        code = "JetBrains Mono",
     },
     features = [
         "navigation.top",
